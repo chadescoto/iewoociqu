@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohzahtohyo.bewitchingtales.co.uk/sitemap.xml
